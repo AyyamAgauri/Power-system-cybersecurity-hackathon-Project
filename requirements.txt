@@ -1,0 +1,8 @@
+scikit-learn
+imbalanced-learn
+pandas
+numpy
+ipykernel
+optuna
+skl2onnx
+matplotlib
